@@ -1,0 +1,25 @@
+# PageMayhem
+
+> Guides to web page destruction games — the browser genre where you hand a game a URL and it hands the page back to you as a destructible level.
+
+An independent guide site. It is not affiliated with any of the games' developers, and it links to each game's official home rather than rehosting anything.
+
+## The games
+
+- [Web Page Destruction Games](https://pagemayhem.com/): The genre hub — what each game does, how to play, and where it officially lives.
+- [Destroy Any Website](https://pagemayhem.com/destroy-any-website/): The viral original. Paste a URL and smash the page apart; controls, weapons, multiplayer and tips.
+- [Page Rage](https://pagemayhem.com/page-rage/): A free browser game that turns any web page into a destructible level you fly around with a jetpack, hosted at page-rage.com.
+- [Site Slayer](https://pagemayhem.com/site-slayer/): A browser add-on rather than a website — it destroys the page you are already on. Modes, ships and achievements.
+
+## Guides
+
+- [Page Rage Extension: How to Install and Use It](https://pagemayhem.com/page-rage-extension/): The official add-on for Chrome, Firefox and Edge turns whatever tab you are on into the next level. What its permissions mean, and how to fix an install that fails.
+- [Page Rage Unblocked](https://pagemayhem.com/page-rage-unblocked/): There is no legitimate mirror — the game is hosted only at page-rage.com and in its official extension. Covers the options that genuinely work on a filtered network, and the ones that are traps.
+- [Destroy Any Website Unblocked](https://pagemayhem.com/destroy-any-website-unblocked/): The same honest treatment for the original game.
+- [Page Rage vs Destroy Any Website](https://pagemayhem.com/page-rage-vs-destroy-any-website/): Head to head — weapons, multiplayer, physics and the extension trick, plus a ten-second test for which to play first.
+- [Games Like Destroy Any Website](https://pagemayhem.com/games-like-destroy-any-website/): Six alternatives compared, including Page Rage, Site Slayer, Stimulation Clicker and Desktop Destroyer.
+
+## Optional
+
+- [About](https://pagemayhem.com/about/)
+- [Privacy Policy](https://pagemayhem.com/privacy/)
